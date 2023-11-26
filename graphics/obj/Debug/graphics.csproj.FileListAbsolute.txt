@@ -1,0 +1,15 @@
+C:\Users\Максим\source\repos\graphics\graphics\bin\Debug\graphics.exe.config
+C:\Users\Максим\source\repos\graphics\graphics\bin\Debug\graphics.exe
+C:\Users\Максим\source\repos\graphics\graphics\bin\Debug\graphics.pdb
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\graphics.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\App.g.cs
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\graphics_MarkupCompile.cache
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\graphics_MarkupCompile.lref
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\MainWindow.baml
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\graphics.g.resources
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\graphics.Properties.Resources.resources
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\graphics.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\graphics.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\graphics.exe
+C:\Users\Максим\source\repos\graphics\graphics\obj\Debug\graphics.pdb
